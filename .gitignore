@@ -4,4 +4,5 @@ Pipfile.lock
 data/api/*
 testNB_lyrics
 testNB_labels
+__pychache__
 
