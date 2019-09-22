@@ -1,4 +1,4 @@
-# genre classifier for lyrics
+# crawler and genre classifier for lyrics
 
 This is a classifier that can distinguish the genre of a song by analyzing its lyrics. Intuition is from the course project of USC CSCI 544. Final report is [here](final_report.pdf). 
 
